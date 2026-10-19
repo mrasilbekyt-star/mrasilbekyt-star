@@ -11,7 +11,7 @@
 - 🚀 Hozir **[TilArena](https://t.me/tilarenabot)** ustida ishlayapman: ingliz va nemis tilini o'yin orqali o'rgatadigan Telegram bot va Mini App.
 - 📱 **Flutter** bilan mobil ilovalar, ⚙️ **TypeScript** bilan Telegram botlar va serverlar, 🎮 **Roblox** o'yinlari yarataman.
 - ☁️ Loyihalarimning ko'pi **Firebase** ustida: Auth, Firestore, Hosting, Cloud Functions.
-- 🇺🇿 Ilovalarim o'zbek tilida, o'zbek foydalanuvchilari uchun.
+- 💬 Ilovalarim o'zbek tilida, o'zbek foydalanuvchilari uchun.
 
 ## 🚀 Loyihalar
 
